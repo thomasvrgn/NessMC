@@ -1,25 +1,62 @@
-# 👋 Hi there!
-> My name is Ness, I have been a web developer for 5 years and I love programming and designing websites. I found this passion for programming through my uncle and I've been developing this ability ever since. It's in this field that I discovered a real passion and a real future job that is the web developer.
 
-I am currently working on various more or less complex projects which are :
- - ✍ Objective HTML (A programming language with HTML like syntax): 
- [https://github.com/Objective-HTML/objective-html](https://github.com/Objective-HTML/objective-html)
- - 🍿 Popscript (A very simple programming language):
- [https://github.com/NessMC/popscript](https://github.com/NessMC/popscript)
- - 🖼 Landing page template (A free-to-use template for your projects): 
- [https://github.com/NessMC/landing-page-template](https://github.com/NessMC/landing-page-template)
- 
- - 🏠 Portfolio (My website): 
- [https://github.com/NessMC/NessMC.github.io](https://github.com/NessMC/NessMC.github.io)
- 
- I'm also trying out new programming languages such as:
- - 📚 Rust: 
- [https://github.com/NessMC/rust-training](https://github.com/NessMC/rust-training)
- 
- - 📚 V:
- [https://github.com/NessMC/v-training](https://github.com/NessMC/v-training)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NessMC&show_icons=true&hide_border=true" />
+<font size="10">
+<b>
+Hi there 👋
+</b>
+</font>
+<br>
+I'm <a href="https://nessmc.fr">Ness</a>, <b>web developer</b> from France. I love programming and designing websites. Since 5 years, I'm constantly learning different programming languages like <b>Javascript</b>, <b>Typescript</b>, <b>PHP</b>...
 
-Finally, you can find me on my various networks:
- - Discord: @Ness#9999
- - Twitter: Ness40661033
- - Email: contact@nessmc.fr
+___
+
+<p align="center">
+	<br>
+	<img src="http://img.shields.io/badge/Discord-%40Ness%239999-7289DA?style=for-the-badge" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="http://img.shields.io/badge/Twiter-%40Ness40661033-1DA1F2?style=for-the-badge" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="http://img.shields.io/badge/Instagram-%40nessmc.contact-E1306C?style=for-the-badge" />
+	<br>
+	<br>
+	<br>
+	<font size="10">
+		<b>
+			My projects
+		</b>
+	</font>
+	<br>
+	<br>
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=popscript" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Objective-HTML&repo=objective-html" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=css-framework" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=javaskript" />
+</p>
+
+___
+
+<p align="center">
+	<font size="10">
+		<b>
+		The tools I use
+		</b>
+	</font>
+</p>
+
+<p align="center">
+	<img src="https://www.split.io/wp-content/uploads/2020/03/javascript-logo.png" width="128"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="128"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://equestsolutions.net/wp-content/uploads/2014/08/php-logo.jpg" width="128" />
+	<br>
+	<br>
+	<img src="https://fr.nuxtjs.org/logos/nuxt-emoji.png" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://vuejs.org/images/logo.png" width="128" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://gridsome.org/logos/only-logo.svg" width="128" />
+	<br><br>
+	<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="128" />
+</p>
