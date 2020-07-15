@@ -12,6 +12,8 @@ ___
 
 <p align="center">
 	<br>
+	<br>
+	<br>
 	<img src="http://img.shields.io/badge/Discord-%40Ness%239999-7289DA?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="http://img.shields.io/badge/Twiter-%40Ness40661033-1DA1F2?style=for-the-badge" />
