@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NessMC&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nessmc&count_private=true&show_icons=true&hide_border=true" />
 <font size="10">
 <b>
 Hi there 👋
@@ -61,4 +61,10 @@ ___
 	<img src="https://gridsome.org/logos/only-logo.svg" width="128" />
 	<br><br>
 	<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="128" />
+</p>
+
+___
+
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessmc&hide_border=true" />
 </p>
