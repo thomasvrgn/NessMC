@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nessmc&count_private=true&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nessmc&count_private=true&show_icons=true&hide_border=true&title_color=4f94ef&bg_color=181a1b&text_color=999898" />
 <font size="10">
 <b>
 Hi there 👋
@@ -30,10 +30,11 @@ ___
 	<br>
 	<br>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=popscript" />
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Objective-HTML&repo=objective-html" />
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=css-framework" />
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=javaskript" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=popscript&title_color=2b7489&bg_color=181a1b&text_color=fffefe" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Objective-HTML&repo=objective-html&title_color=f1e05a&bg_color=181a1b&text_color=fffefe" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=css-framework&title_color=f1e05a&bg_color=181a1b&text_color=fffefe" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=NessMC&repo=javaskript&title_color=2b7489&bg_color=181a1b&text_color=fffefe" />
+	
 </p>
 
 ___
@@ -66,5 +67,5 @@ ___
 ___
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessmc&hide_border=true" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessmc&hide_border=false&title_color=e34c26&bg_color=181a1b&text_color=fffefe" />
 </p>
