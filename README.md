@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nessmc&count_private=true&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nessmc&count_private=true&show_icons=true&hide_border=true&title_color=4f94ef&bg_color=181a1b&text_color=999898" />
 <font size="10">
 <b>
 Hi there 👋
