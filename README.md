@@ -67,5 +67,5 @@ ___
 ___
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessmc&hide_border=true" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessmc&hide_border=false&title_color=e34c26&bg_color=181a1b&text_color=fffefe" />
 </p>
